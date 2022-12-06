@@ -20,7 +20,7 @@
  <h2>👨‍🎓 Education:</h2>
 
 - <b>Bachelor of Science - BS - Cybersecurity and Information Assurance</b> 
-- <b>Associate's Degree - AS - Computer and Information Systems Security/Information Assurance</b>   
+- <b>Associate's Degree - AAS - Computer and Information Systems Security/Information Assurance</b>   
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
