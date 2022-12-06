@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/joshmadakor1">Network Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Ethical Hacker</a></h1>
+<h1>Hi, I'm David! <br/><a href="https://github.com/davidpilat">Network Administrator</a>, <a href="https://www.linkedin.com/in/david-pilat-188184ab/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
