@@ -28,7 +28,7 @@
 
 
 [twitter]: https://twitter.com/davidspilat
-[linkedin]: www.linkedin.com/in/david-pilat-188184ab
+[linkedin]: https://www.linkedin.com/in/david-pilat-188184ab
 
 <!--
 **davidpilat/davidpilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
