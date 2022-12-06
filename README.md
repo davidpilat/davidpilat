@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @davidpilat
-- 👀 I’m interested in Cybersecurity and Information Assurance. 
-- 🌱 I’m currently learning Practical Ethical Hacking. 
-- 📫 How to reach me ... Find me on Linkedin www.linkedin.com/in/david-pilat-188184ab
+<h1>Hi, I'm David! <br/><a href="https://github.com/joshmadakor1">Network Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Ethical Hacker</a></h1>
 
-<!---
-davidpilat/davidpilat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>TCM Security Lab</b>
+  - [TCM Security Lab](link)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[twitter]: https://twitter.com/davidspilat
+[linkedin]: www.linkedin.com/in/david-pilat-188184ab
+
+<!--
+**davidpilat/davidpilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
