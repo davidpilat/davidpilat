@@ -15,7 +15,12 @@
   - [A+](https://www.credly.com/badges/a316d4cb-77b4-4126-9127-90c426224112/linked_in_profile)
 - <b>(ISC)² Certs</b> 
   - [SSCP](https://www.credly.com/badges/9203c43a-d716-4c3c-aea6-6254c35bc1f5/linked_in_profile)
+- <b>Information Security Professional - Whatcom Community College</b>
+  
+ <h2>👨‍🎓 Education:</h2>
 
+- <b>Bachelor of Science - BS - Cybersecurity and Information Assurance</b> 
+- <b>Associate's Degree - AS - Computer and Information Systems Security/Information Assurance</b>   
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
